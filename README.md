@@ -8,11 +8,7 @@ values are set up as a link for quick file opening.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to the required libraries
 
 ```bash
-pip install openpyxl
-pip install comtypes
-pip install python-pptx
-pip install fitz
-pip install aspose
+pip install -r requirements.txt
 ```
 
 ## How to use this program
