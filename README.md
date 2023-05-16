@@ -14,9 +14,9 @@ pip install -r requirements.txt
 ## How to use this program
 
 1. First you will be prompted to enter a search path for the folders you wish to search:
-○ Either copy the folder path and paste it by right clicking, or manually type in
+* Either copy the folder path and paste it by right clicking, or manually type in
 the folder path
-○ After inputting a valid search path (it will check before proceeding), type the
+* After inputting a valid search path (it will check before proceeding), type the
 keywords to be searched for (comma-separated).
 2. Next, type a name for the output Excel file which will contain the search results
 (Default name is “FileSearch”).
